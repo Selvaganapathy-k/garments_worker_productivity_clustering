@@ -1,4 +1,3 @@
-Subject: README.md – Garments Worker Productivity Clustering
 
 # 👕 Garments Worker Productivity Clustering
 
